@@ -5,5 +5,9 @@ public class Class1 {
         Class4 class4 = new Class4();
 
         System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
+        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
+        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
+        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
+        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
     }
 }
