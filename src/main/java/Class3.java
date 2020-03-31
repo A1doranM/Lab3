@@ -1,7 +1,6 @@
 public class Class3 {
-    int functionTest(){
+    int functionTest2(){
         int a = 1;
-        System.out.println(a);
         return a;
     }
 }

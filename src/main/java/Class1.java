@@ -4,10 +4,6 @@ public class Class1 {
         Class3 class3 = new Class3();
         Class4 class4 = new Class4();
 
-        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
-        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
-        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
-        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
-        System.out.println(class2.functionTest() + " " + class3.functionTest() + " " + class4.functionTest());
+        System.out.println(class2.functionTest4() + " " + class3.functionTest2() + " " + class4.functionTest3());
     }
 }
